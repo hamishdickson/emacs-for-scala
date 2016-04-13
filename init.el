@@ -1,4 +1,4 @@
-(x-focus-frame nil)
+;;(x-focus-frame nil)
 (setq mac-command-modifier 'super)
 
 ;; Org mode
